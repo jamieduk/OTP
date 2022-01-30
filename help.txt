@@ -5,6 +5,7 @@ Welcome To J~Net OTP 2022 For Bash
 
 Then Encrypt Option Last
 
+Every Message make a NEW OTP Key!
 
 
 To Manually Do It
