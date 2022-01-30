@@ -7,6 +7,13 @@ Then Encrypt Option Last
 
 Every Message make a NEW OTP Key!
 
+Decrypt as easy as it is to Encypt!
+
+
+Forum Post
+https://jnet.forumotion.com/t1781-bash-otp-encryption-and-decryption#2752
+
+
 
 To Manually Do It
 
