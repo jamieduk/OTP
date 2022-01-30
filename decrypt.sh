@@ -10,9 +10,10 @@
 #To Manually Do It
 # Decrypt the cipher text using the otp
 ./otp.sh -d cipher.txt otp.txt > dec.txt
-
-
 echo ""
+cat dec.txt
+echo ""
+echo "End Of Decrypton"
 echo "Ready To Go Back To Menu?"
 read Y
 bash menu.sh
