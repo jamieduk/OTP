@@ -13,7 +13,7 @@
 echo ""
 cat dec.txt
 echo ""
-echo "End Of Decrypton"
+echo "End Of Decryption"
 echo "Ready To Go Back To Menu?"
 read Y
 bash menu.sh
