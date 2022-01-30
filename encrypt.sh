@@ -14,6 +14,6 @@ input=`cat text.txt`
 echo ""
 cat cipher.txt
 echo ""
-echo "Thats Your Cipher Text Key Is Stored As otp.txt, Ready To Go Back To Menu?"
+echo "Thats Your Cipher Text, Key Is Stored As otp.txt, Ready To Go Back To Menu?"
 read Y
 bash menu.sh
