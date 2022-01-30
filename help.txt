@@ -1,0 +1,21 @@
+
+Welcome To J~Net OTP 2022 For Bash
+
+1st, prepear your plaintext
+
+Then Encrypt Option Last
+
+
+
+To Manually Do It
+
+# Generate a One Time Pad based on the length of the plaintext
+./otp.sh -o test.txt otp.txt > otp.txt
+
+# Encrypt the plaintext with the otp
+./otp.sh -e test.txt otp.txt > cipher.txt
+
+# Decrypt the cipher text using the otp
+./otp.sh -d cipher.txt otp.txt > dec.txt
+
+
