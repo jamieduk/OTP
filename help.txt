@@ -3,12 +3,13 @@ Welcome To J~Net OTP 2022 For Bash
 
 1st, prepear your plaintext
 
-Then Encrypt Option Last
+Then Generate New OTP Key
 
 Every Message make a NEW OTP Key!
 
-Decrypt as easy as it is to Encypt!
+Then Encrypt Option Last
 
+Decrypt as easy as it is to Encypt!
 
 Forum Post
 https://jnet.forumotion.com/t1781-bash-otp-encryption-and-decryption#2752
