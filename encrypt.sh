@@ -17,6 +17,6 @@ echo "All Done!"
 echo "Your Cipher Text Is"
 cat cipher.txt
 echo ""
-echo "Key Is Stored As otp.txt, Ready To Go Back To Menu?"
+echo "Key Is Stored In otp.txt, Ready To Go Back To Menu?"
 read Y
 bash menu.sh
